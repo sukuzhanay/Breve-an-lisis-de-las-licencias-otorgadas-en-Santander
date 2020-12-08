@@ -2,5 +2,4 @@
 
 ## [Ver en Youtube](https://youtu.be/J5fqmTckQ0o)
 
-
-![Image of Yaktocat](https://github.com/sukuzhanay/Breve-analisis-de-las-licencias-otorgadas-en-Santander/Licencias VS anio.png)
+![Plot](https://github.com/sukuzhanay/Breve-analisis-de-las-licencias-otorgadas-en-Santander/blob/main/Licencias%20vs%20anio.png)
